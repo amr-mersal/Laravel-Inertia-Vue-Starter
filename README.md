@@ -1,26 +1,20 @@
 ## Listing App
 - A modern listing application built using Laravel, Inertia.js, and Vue.js. This app supports CRUD operations for listings and features a responsive UI, server-side validation, and user authentication.
+  
+## Tech Stack
+- Backend: Laravel 
+- Frontend: Vue 3 + Inertia.js
+- Styling: Tailwind CSS 
+-  Database: SQlite
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##  Features
+- User Authentication (Login/Register)
+- Create, Read, Update, Delete Listings
+- Server-side form validation
+- Pagination 
+- Flash messages and error handling via Inertia
+- Responsive design
+- Middleware-protected routes
 
 
 ## After cloning this repo, do the following steps:
